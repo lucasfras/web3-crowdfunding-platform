@@ -15,7 +15,7 @@ A Web3 Crowdfunding platform including a frontend built in ReactJS and a backend
 
 Campaigns are created with a specified target amount and time. Once the target time has been reached, the owner has the option to end the campaign and receive all funds that have been donated to their campaign.
 
-![](https://github.com/lucasfras/web3-crowdfunding-platform/crowdfunding.gif)
+![](https://github.com/lucasfras/web3-crowdfunding-platform/presentation.gif)
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
